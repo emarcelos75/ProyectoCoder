@@ -1,0 +1,15 @@
+C:\Users\msantos\source\repos\ProyectoFinalClases\ProyectoFinalClases\bin\Debug\net6.0\ProyectoFinalClases.exe
+C:\Users\msantos\source\repos\ProyectoFinalClases\ProyectoFinalClases\bin\Debug\net6.0\ProyectoFinalClases.deps.json
+C:\Users\msantos\source\repos\ProyectoFinalClases\ProyectoFinalClases\bin\Debug\net6.0\ProyectoFinalClases.runtimeconfig.json
+C:\Users\msantos\source\repos\ProyectoFinalClases\ProyectoFinalClases\bin\Debug\net6.0\ProyectoFinalClases.dll
+C:\Users\msantos\source\repos\ProyectoFinalClases\ProyectoFinalClases\bin\Debug\net6.0\ProyectoFinalClases.pdb
+C:\Users\msantos\source\repos\ProyectoFinalClases\ProyectoFinalClases\obj\Debug\net6.0\ProyectoFinalClases.csproj.AssemblyReference.cache
+C:\Users\msantos\source\repos\ProyectoFinalClases\ProyectoFinalClases\obj\Debug\net6.0\ProyectoFinalClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msantos\source\repos\ProyectoFinalClases\ProyectoFinalClases\obj\Debug\net6.0\ProyectoFinalClases.AssemblyInfoInputs.cache
+C:\Users\msantos\source\repos\ProyectoFinalClases\ProyectoFinalClases\obj\Debug\net6.0\ProyectoFinalClases.AssemblyInfo.cs
+C:\Users\msantos\source\repos\ProyectoFinalClases\ProyectoFinalClases\obj\Debug\net6.0\ProyectoFinalClases.csproj.CoreCompileInputs.cache
+C:\Users\msantos\source\repos\ProyectoFinalClases\ProyectoFinalClases\obj\Debug\net6.0\ProyectoFinalClases.dll
+C:\Users\msantos\source\repos\ProyectoFinalClases\ProyectoFinalClases\obj\Debug\net6.0\refint\ProyectoFinalClases.dll
+C:\Users\msantos\source\repos\ProyectoFinalClases\ProyectoFinalClases\obj\Debug\net6.0\ProyectoFinalClases.pdb
+C:\Users\msantos\source\repos\ProyectoFinalClases\ProyectoFinalClases\obj\Debug\net6.0\ProyectoFinalClases.genruntimeconfig.cache
+C:\Users\msantos\source\repos\ProyectoFinalClases\ProyectoFinalClases\obj\Debug\net6.0\ref\ProyectoFinalClases.dll
