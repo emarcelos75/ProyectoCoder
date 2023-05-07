@@ -20,8 +20,8 @@ namespace ProyectoFinalClases
 
         public int Id 
         { 
-            get { return _id; } 
-            set { _id = value; } 
+            get { return this._id; } 
+            set { this._id = value; } 
         }
 
         public string Comentarios
@@ -32,8 +32,8 @@ namespace ProyectoFinalClases
 
         public int IdUsuario 
         { 
-            get { return _idusuario; } 
-            set { _idusuario = value; } 
+            get { return this._idusuario; } 
+            set { this._idusuario = value; } 
         }
 
         #endregion

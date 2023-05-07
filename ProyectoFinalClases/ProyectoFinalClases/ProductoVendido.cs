@@ -20,13 +20,13 @@ namespace ProyectoFinalClases
 
         #region Propiedades
 
-        public int Id { get { return _id; } set { _id = value; } }
+        public int Id { get { return this._id; } set { this._id = value; } }
 
-        public int IdProducto { get { return _idproducto; } set { _idproducto = value; } }
+        public int IdProducto { get { return this._idproducto; } set { this._idproducto = value; } }
 
-        public double Stock { get { return _stock;} set { _stock = value; } }  
+        public double Stock { get { return this._stock;} set { this._stock = value; } }  
 
-        public int IdVenta { get { return _idventa; } set{ _idventa = value; } }
+        public int IdVenta { get { return this._idventa; } set{ this._idventa = value; } }
 
         #endregion
 
